@@ -14,7 +14,7 @@ A simple Next.js 14 (App Router) app displaying a list of 10 posts fetched from 
 ## Getting Started
 
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/zahraajafarin/Melal.git
+cd Melal
 npm install
 npm run dev
